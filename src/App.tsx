@@ -1,7 +1,8 @@
 import "./App.css";
+import AlpacaGenerator from "./components/alpaca-generator";
 
 function App() {
-  return <div></div>;
+  return <AlpacaGenerator />;
 }
 
 export default App;
